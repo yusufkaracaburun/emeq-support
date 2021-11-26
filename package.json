@@ -1,0 +1,20 @@
+{
+  "name": "emeq-support",
+  "version": "1.0.0",
+  "description": "dit is een wijziging",
+  "main": "index.js",
+  "scripts": {
+    "start": "docsify serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufkaracaburun/emeq-support.git"
+  },
+  "author": "Ilhan Olgun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufkaracaburun/emeq-support/issues"
+  },
+  "homepage": "https://github.com/yusufkaracaburun/emeq-support#readme"
+}
