@@ -1,5 +1,6 @@
 # Emeq Handleiding
-Ilhan bos durma, biraz calis2
+Ilhan bos durma, biraz calis
+bestand buiten docs
 
 <!-- This repository exists to introduce each new semester of Emeq. The presentation folder contains a [reveal.js](https://github.com/hakimel/reveal.js) presentation that is shown on the first day of class. This README contains all the information in the presentation in a bit more detail. -->
 
