@@ -15,6 +15,7 @@ window.$docsify = {
   themeColor: '#3F51B5',
   mergeNavbar: true,
   executeScript: true,
+  routerMode: 'history',
   pagination: {
     crossChapter: true,
   },
