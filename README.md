@@ -1,8 +1,7 @@
-# Emeq Handleiding
-Ilhan bos durma, biraz calis
-bestand buiten docs
+# EMEQ Handleiding
+Ilhan bos durma, biraz calis bestand buiten docs
 
-<!-- This repository exists to introduce each new semester of Emeq. The presentation folder contains a [reveal.js](https://github.com/hakimel/reveal.js) presentation that is shown on the first day of class. This README contains all the information in the presentation in a bit more detail. -->
+Welkom in ons online documentatie website. In dit website vind je uitgebreide uitleg van alle functionaliteiten van EMEQ. Wij hebben geprobeerd om de documentatie zo duidelijk mogelijk te vertellen. Mocht er ondanks deze handleiding nog steeds onduidelijkheden zijn kun je ons altijd raadplegen voor extra support.
 
 This is intended to be a thorough, living document detailing the organizational practices of Emeq at every level. If you find a problem or something that you'd like to dispute, please [open an issue](https://github.com/rcos/handbook/issues/new).
 
