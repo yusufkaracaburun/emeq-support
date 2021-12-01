@@ -17,7 +17,8 @@ window.$docsify = {
   executeScript: true,
   routerMode: 'history',
   pagination: {
-    crossChapter: true,
+    previousText: 'Vorige',
+    nextText: 'Volgende'
   },
   tabs: {
     persist    : true,
