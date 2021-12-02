@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yusufkaracaburun/emeq-support/issues"
   },
-  "homepage": "https://github.com/yusufkaracaburun/emeq-support#readme"
+  "homepage": "https://github.com/yusufkaracaburun/emeq-support#readme",
+  "dependencies": {
+    "docsify-cli": "^4.4.3"
+  }
 }

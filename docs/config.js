@@ -1,8 +1,9 @@
 window.$docsify = {
   name: "Emeq Handleiding",
   repo: "",
-  coverpage: false,
-  basePath: 'https://help.emeq.nl',
+  basePath: '/',
+  homepage: 'home.md',
+  // basePath: 'https://help.emeq.nl',
   // coverpage: '_coverpage.md',
   loadSidebar: '_sidebar.md',
   loadNavbar: '_navbar.md',
