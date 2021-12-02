@@ -1,14 +1,33 @@
-- Overview
+- Overzicht
 
-  - [Welcome to Emeq](README.md)
+  - [Welkom bij EMEQ](README.md)
   - [FAQ](overview/faq.md)
-  - [History](overview/history.md)
-  - [Code Of Conduct](overview/code_of_conduct.md)
-  <!-- * [Sponsors](overview/sponsors.md) -->
+  - [Geschiedenis](overview/history.md)
   - [Contact](overview/contact.md)
 
-- Getting started
+- Aan de slag
 
-  - [Join RCOS](membership/join_rcos.md)
-  - [What You'll Need](membership/requirements.md)
-  - [Project Pairing](membership/project_pairing.md)
+  - [Aanmelden](subscription/join_emeq.md)
+  - [Wat heeft u nodig?](subscription/requirements.md)
+
+- Bedrijf
+- Gebruiker
+- Artikel
+- Project
+- Uren
+- Productielijst
+- Offerte
+- Factuur
+- Self billing factuur
+- Rekening
+- Transactie
+- Mededeling
+- Voertuig
+- Apparatuur
+- Todo
+- Email
+- Email template
+- Logboek
+- Systeem configuratie
+- Module configuratie
+- Abonnement
