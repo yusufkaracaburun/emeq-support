@@ -1,7 +1,7 @@
 - Overzicht
 
   - [Welkom bij EMEQ](README.md)
-  - [FAQ](overview/Aanmelden.md)
+  - [Aanmelden](overview/Aanmelden.md)
   - [Geschiedenis](overview/history.md)
   - [Contact](overview/contact.md)
 
