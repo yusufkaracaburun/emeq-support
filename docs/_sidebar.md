@@ -1,8 +1,8 @@
 - Overzicht
 
   - [Welkom bij EMEQ](README.md)
+  - [Wat heeft u nodig?](overview/history.md)
   - [Aanmelden](overview/Aanmelden.md)
-  - [Geschiedenis](overview/history.md)
   - [Contact](overview/contact.md)
 
 - Aan de slag
