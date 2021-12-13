@@ -7,8 +7,15 @@
 
 - Systeem configuratie
 
-  - [Aanmelden](subscription/join_emeq.md)
-  - [Wat heeft u nodig?](subscription/requirements.md)
+  - Basis
+  - Logo
+  - Systeem
+  - E-mail
+  - Taal 
+  - Rol
+  - Machtiging
+  - Menu
+  - Authenticatie
 
 - Module configuratie
 
