@@ -5,10 +5,19 @@
   - [Aanmelden](overview/Aanmelden.md)
   - [Contact](overview/contact.md)
 
-- Aan de slag
+- Systeem configuratie
 
   - [Aanmelden](subscription/join_emeq.md)
   - [Wat heeft u nodig?](subscription/requirements.md)
+
+- Module configuratie
+
+  - [Aanmelden](subscription/join_emeq.md)
+  - [Wat heeft u nodig?](subscription/requirements.md)
+
+- Emailtemplate
+- Email logboek
+- Activiteiten logboek
 
 - Bedrijf
 - Gebruiker
