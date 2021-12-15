@@ -13,7 +13,7 @@ window.$docsify = {
   auto2top: true,
   relativePath: false,
   logo: '_media/favicon.png',
-  themeColor: '#3F51B5',
+  themeColor: '#9400d3',
   mergeNavbar: true,
   executeScript: true,
   routerMode: 'history',
