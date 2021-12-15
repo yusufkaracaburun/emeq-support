@@ -6,7 +6,7 @@ Emeq software is een online webapplicatie. Ons hele systeem draait hierdoor op e
 
 Ons webapplicatie is geheel mobielvriendelijk. Zodra de gebruiker ons systeem raadpleegt vanuit een mobiele telefoon wordt de webapplicatie responsive weergegeven. Maar mocht u in de problemen komen met een niet goed weergegeven pagina op uw scherm, dan raden we aan om de telefoon horizontaal vast te houden voor de rotatie van het scherm. Hierdoor kunt u een optimale weergave verkrijgen.
 
-Op al onze functionaliteiten is de Nederlandse recht van toepassing. Deze rechten hebben wij opgenomen in ons algemene voorwaarden. Inbreuk plegen op ons auteursrechten en intellectueel eigendomsrechten is strafbaar. 
+Op al onze functionaliteiten zijn de Nederlandse recht van toepassing. Deze rechten hebben wij opgenomen in ons algemene voorwaarden. Inbreuk plegen op ons auteursrecht en intellectueel eigendomsrecht is strafbaar. 
 
 
 
