@@ -2,8 +2,9 @@
 
   - [Welkom bij EMEQ](README.md)
   - [Algemeen informatie?](overview/history.md)
-  - [Aanmelden](overview/Aanmelden.md)
   - [Contact](overview/contact.md)
+  - [Aan de slag](overview/Aanmelden.md)
+  
 
 - Systeem configuratie
 
