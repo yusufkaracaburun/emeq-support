@@ -1,9 +1,9 @@
 # Contact
 
-## Email
-- [coordinators@rcos.io](mailto:coordinators@rcos.io)
+# Email
+- [info@emeq.nl](mailto:info@emeq.nl)
 
-## Social Media
+## Adres
 - [RCOS](https://www.github.com/rcos)
 - [Facebook](https://www.facebook.com/RCOSatRPI)
 - [Twitter](https://twitter.com/rcosrpi)
