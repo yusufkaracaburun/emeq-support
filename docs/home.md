@@ -7,6 +7,5 @@ Ten eerste willen we u welkomheten op onze handleidingpagina. In deze handleidin
 Tot uw dienst,
 
 Emeq B.V.
-
 info@emeq.nl
 
