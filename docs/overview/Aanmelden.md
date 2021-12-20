@@ -1,18 +1,18 @@
-# Frequently Asked Questions
+# Meest gestelde vragen
 
-## What do you do in RCOS?
-In a semester of RCOS, you work with a team (or solo) on an open source project. You can either start your own project and manage a team of students, or join a project and work under a project lead.
+### Wat kun je precies met Emeq doen?
+Emeq is een webapplicatie die speciaal is ontwikkeld voor bouw- en infra bedrijven. Door middel van dit software is het mogelijk om de bedrijfsprocessen te digitaliseren. Hierdoor heb je een compleet overzicht van alle werkzaamheden die verricht worden binnen jouw bedrijf.   
 
-## What kind of course credit can you receive?
-You can register for RCOS for 3 or 4 free elective credits. You can request to take less credits if necessary. You can also take RCOS for 0 credits - for experience only - for no obligation for attendance and contributions.
+## Zijn de modules te beheren?
+Emeq software is een heel uitgebreid, maar tegelijkertijd ook een super gebruiks- en gemaksvriendelijke webapplicatie. Het vraagt niet om hoog niveau om hiermee aan de slag te kunnen gaan. Wat dit systeem ook compleet maakt is dat de gebruiker zelf de modules kan aan- en uitzetten. Heb je dus functionaliteiten waar je geen gebruik van wil maken? Dan kun je dat op non actief zetten zodat je overzicht compacter wordt.
 
-## How often does RCOS meet?
-RCOS meets twice each week for two hours on Tuesdays and Fridays, typically from 4pm to 6pm, where attendance is required. There are also other one-off meetings and events held throughout the semester where attendance is optional.
+## Wat maakt Emeq zo uniek?
+In de markt zijn er geen specifieke IT oplossing waarbij alle functionaliteiten onder één dak te vinden zijn. Emeq is uniek omdat alle functionaliteiten van het systeem overeenkomt met de werkzaamheden die in de infra- of bouwbedrijven worden uitgevoerd. Denk voornamelijk hierbij aan productielijsten, mandagenregisters, projectbeheer, planning, urenstaat, self billing factuur, wagenpark, apparatuur, rekening en documentatie.
 
-## How much time is expected per week?
-You are expected to work on your RCOS project at minimum the 4-hours a week that the course meets. If you are taking RCOS for credit, you are expected to work for a few more hours each week based on your credit count. If you are taking RCOS for no credit, you are encouraged to work consistently each week but are not under obligation to do so.
+## Hoe is Emeq software ingericht?
+Emeq software is ontwikkeld met verschillende bijbehorende modules. Ieder module heeft zijn eigen unieke functionaliteit. Al deze ontwikkelingen worden in het Engels aangeboden die ook in het Nederlands te gebruiken zijn. Mocht u het systeem in een andere taal willen hebben? Dat kan uiteraard ook, maar dan moet je de systeem zelf vertalen door middel van ons multilingual vertaalsysteem.
 
-## What kind of projects can I work on?
+## Hoe is het gebruiksgemak van Emeq?
 The only requirement for an RCOS project is that it be open source. While we mostly have software projects, hardware projects are welcome and encouraged. Projects range from full stack web apps, native applications, mobile applications, video games, programming languages, and more. Check out [rcos.io/projects](https://rcos.io/projects) for a full list!
 
 ## Do I have to finish my project?
