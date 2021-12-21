@@ -3,7 +3,7 @@
   - [Welkom bij Emeq](README.md)
   - [Algemeen informatie](overview/history.md)
   - [Contact](overview/contact.md)
-  - [Aan de slag](overview/Aanmelden.md)
+  - [Aan de slag](overview/aandeslag.md)
   
 
 - Systeem configuratie
