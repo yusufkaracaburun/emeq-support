@@ -1,6 +1,6 @@
 # Algemeen informatie
 
-> Gebruik Google Chrome voor een optimale werking!
+> Gebruik Google Chrome als webbrowser voor een optimale werking!
 > 
 Emeq software is een online webapplicatie. Ons hele systeem draait hierdoor op een webserver en via de webbrowser kan het worden benaderd. Wij adviseren onze gebruikers om hun Emeq domein te gebruiken op Google Chrome. Overige webbrowsers zullen ons systeem ook ondersteunen, maar wij kunnen dan niet garanderen dat alle functionaliteiten naar behoren kunnen werken. 
 
