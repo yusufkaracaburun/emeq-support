@@ -1,11 +1,10 @@
 # Emeq Handleiding
-Beste gebruiker,
 
-Ten eerste willen we u welkomheten op ons handleidingpagina. In deze handleiding kunt u een uitgebreide uitleg vinden van alle functionaliteiten van Emeq software. Ondanks dat de handleiding met zorgvuldigheid is opgemaakt kunnen sommige onderdelen misschien uw vraag tekort schieten. Neem in dat geval gerust contact op met ons klantenservice. Ons klantenservice staat u graag te woord.
+> Welkom, welcome, willkommen, bienvenue, hoşgeldiniz
+>
+Ten eerste willen we u welkomheten op ons online gebruikershandleiding-pagina. In deze gebruikershandleiding kunt u een uitgebreide uitleg vinden van alle functionaliteiten van Emeq Software. Ondanks dat de gebruikershandleiding met zorgvuldigheid is opgemaakt kunnen sommige onderdelen misschien uw vraag tekort schieten. Neem in dat geval gerust contact op met ons klantenservice. Ons klantenservice staat u graag te woord.
 
 
 Tot uw dienst,
 
-Emeq Software
-
-info@emeq.nl
+Emeq Software                                                                                                                                                                        [info@emeq.nl](mailto:info@emeq.nl)
