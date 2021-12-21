@@ -8,7 +8,7 @@
 
 - Systeem configuratie
 
-  - Basis
+  - [Basis](configuration-system/gitkeep)
   - Logo
   - Systeem
   - E-mail
