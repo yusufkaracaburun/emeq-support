@@ -6,7 +6,6 @@ Ten eerste willen we u welkomheten op ons handleidingpagina. In deze handleiding
 
 Tot uw dienst,
 
-Emeq B.V.
+Emeq Software
 
 info@emeq.nl
-
