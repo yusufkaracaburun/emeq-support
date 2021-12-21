@@ -1,5 +1,8 @@
 # Aan de slag
 
+> Groei je ook mee met Emeq Software?
+>
+
 Nogmaals bedankt voor uw keuze naar Emeq Software!
 
 Voordat u aan de slag kunt gaan dient Emeq Software geconfigureerd te worden. Dit gaan we realiseren door middel van het tandwiellogo die u links beneden- of rechtsboven in de pagina kunt vinden.
