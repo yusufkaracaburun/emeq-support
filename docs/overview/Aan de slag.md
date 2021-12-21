@@ -10,10 +10,10 @@ Emeq software is een heel uitgebreid, maar tegelijkertijd ook een super gebruiks
 In de markt zijn er geen specifieke IT oplossing waarbij alle functionaliteiten onder één dak te vinden zijn. Emeq is uniek omdat alle functionaliteiten van het systeem overeenkomt met de werkzaamheden die in de infra- of bouwbedrijven worden uitgevoerd. Denk voornamelijk hierbij aan productielijsten, mandagenregisters, projectbeheer, planning, urenstaat, self billing factuur, wagenpark, apparatuur, rekening en documentatie.
 
 ## Hoe is Emeq software ingericht?
-Emeq software is ontwikkeld met verschillende bijbehorende modules. Ieder module heeft zijn eigen unieke functionaliteit. Al deze ontwikkelingen worden in het Engels aangeboden die ook in het Nederlands te gebruiken zijn. Mocht u het systeem in een andere taal willen hebben? Dat kan uiteraard ook, maar dan moet je de systeem zelf vertalen door middel van ons multilingual vertaalsysteem.
+Emeq software is ontwikkeld met verschillende bijbehorende modules. Ieder module heeft zijn eigen unieke functionaliteit. Al deze ontwikkelingen worden in het Engels aangeboden die ook in het Nederlands te gebruiken zijn. Mocht u het systeem in een andere taal willen hebben? Dat kan uiteraard ook, maar dan moet je de systeem zelf vertalen door middel van ons vertaalsysteem.
 
-## Hoe is het gebruiksgemak van Emeq?
-The only requirement for an RCOS project is that it be open source. While we mostly have software projects, hardware projects are welcome and encouraged. Projects range from full stack web apps, native applications, mobile applications, video games, programming languages, and more. Check out [rcos.io/projects](https://rcos.io/projects) for a full list!
+## Welke documenten kun je genereren met Emeq?
+Met Emeq software kun je productielijsten, mandagenregisters, self billing facturen, facturen en offertes aan documenten genereren. Hiernaast heb je ook de functies om een overzicht te krijgen de documenten die door de gebruikers zijn geüpload. De statussen en verloopdata van al deze documenten worden ook bijgehouden.
 
 ## Do I have to finish my project?
 No! RCOS looks for consistent work, not a fully-fledged, completed project at the end of the semester. You are graded by how consistently you worked with your team towards the milestones you set at the start of the semester. We recognize plans change and sometimes fail! As a result, you can work on the same project multiple semesters, and we encourage project leads to do so.
