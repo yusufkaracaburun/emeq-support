@@ -1,16 +1,11 @@
 # Contact
 
-# Email
-- [info@emeq.nl](mailto:info@emeq.nl)
+Mochten er, ondanks de gebruikershandleiding, nog steeds onduidelijkheden ontstaan dan kunt u ons gerust mailen voor al uw vragen. Dan zullen we ons uiterst best doen om zo snel mogelijk te reageren op uw vraag.
 
-## Adres
-- [RCOS](https://www.github.com/rcos)
-- [Facebook](https://www.facebook.com/RCOSatRPI)
-- [Twitter](https://twitter.com/rcosrpi)
+Emeq B.V.                                                                                                                                                                                
+Tokyostraat 17-F                                                                                                                                                                    
+1175 RB LIJNDEN
 
-## Affiliates
-- [Mozilla Open Source Student Network](https://opensource.mozilla.community/find-club/rensselaer-center-open-source-rcos/)
-- [RPI Web Technologies Group](https://webtech.union.rpi.edu/)
-- [RPISec](https://rpis.ec/)
-- [RPI UPE](http://www.cs.rpi.edu/~upe/)
-- [HackRPI](https://hackrpi.com)
+E-mail: [info@emeq.nl](mailto:info@emeq.nl)                                                                                                                                          
+Whatsapp: 06-17159168                                                                                                                                                                
+Tel: 06-24392795
