@@ -1,7 +1,7 @@
 - Overzicht
 
   - [Welkom bij Emeq](README.md)
-  - [Algemeen informatie](overview/history.md)
+  - [Algemeen informatie](overview/algemeen-informatie.md)
   - [Contact](overview/contact.md)
   - [Aan de slag](overview/aandeslag.md)
   
