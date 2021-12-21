@@ -1,4 +1,4 @@
-# Emeq Handleiding
+# Emeq gebruikershandleiding
 
 > Welkom, welcome, willkommen, bienvenue, hoşgeldiniz
 >
