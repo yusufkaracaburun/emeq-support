@@ -15,6 +15,8 @@ Emeq Software kent 3 belangrijke configuraties;
 -	Module configuratie; en
 -	Email templates
 
+![knipsel-2](https://github.com/yusufkaracaburun/emeq-support/blob/3b9210ade5f9cef575df01958c5c3131e601cf44/docs/_media/knipsel-2.PNG)
+
 Zodra al deze configuraties volledig zijn uitgevoerd kunt u optimaal gebruik maken van ons Emeq Software.
 
 Mochten er, ondanks de handleiding, nog steeds onduidelijkheden ontstaan over de configuratie van uw domein, dan kunt u gerust ons mailen voor al uw vragen. Dan zullen we ons uiterst best doen om zo snel mogelijk te reageren op uw vraag.
