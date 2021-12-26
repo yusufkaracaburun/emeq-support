@@ -1,5 +1,7 @@
 > Ready to start? Configureer dan hieronder al je bedrijfsinstellingen. 
 >
+## Algemeen
+Links van de pagina heb je 9 submenutitels. Dit zijn de pagina's die over de systeemconfiguraties gaan. Neem alle configuratiepagina's goed door zodat je de domein compleet kunt inrichten. Zo kun je voorkomen dat sommige informaties ontbreken of niet juist worden weergegeven.
 
 ## Basis
 
