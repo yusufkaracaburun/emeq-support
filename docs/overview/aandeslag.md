@@ -7,7 +7,7 @@ Nogmaals bedankt voor uw keuze naar Emeq Software!
 
 Voordat u aan de slag kunt gaan dient Emeq Software geconfigureerd te worden. Dit gaan we realiseren door middel van het tandwiel icoontje die u links beneden- of rechtsboven in de pagina kunt vinden.
 
-![knipsel-1](https://github.com/yusufkaracaburun/emeq-support/blob/e6098468a23a78767b7cdb1bf38b6367559d3158/docs/_media/img/knipsel-1.PNG)
+![knipsel-1](/docs/_media/img/knipsel-1.PNG)
 
 Emeq Software kent 3 belangrijke configuraties;
 
@@ -15,7 +15,7 @@ Emeq Software kent 3 belangrijke configuraties;
 -	Module configuratie; en
 -	Email templates
 
-![knipsel-2](https://github.com/yusufkaracaburun/emeq-support/blob/e6098468a23a78767b7cdb1bf38b6367559d3158/docs/_media/img/knipsel-2.PNG)
+![knipsel-2](/docs/_media/img/knipsel-2.PNG)
 
 Zodra al deze configuraties volledig zijn uitgevoerd kunt u optimaal gebruik maken van ons Emeq Software.
 
