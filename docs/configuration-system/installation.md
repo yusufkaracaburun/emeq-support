@@ -22,6 +22,24 @@ Heb je een logo van je bedrijf? Dan moet je 2 typen logo's uploaden op deze pagi
 Na het opslaan zie je bovenaan de pagina direct het resultaat van de geüploade logo samen met de gewijzigde breedte van de logo. 
 
 ## Systeem
+In dit pagina kun je alle systeeminstellingen vinden. Ook deze instellingen kun je persoonlijker maken. De volgende instellingen zijn aan te passen:
+
+**Themakleur:** dit is een optie om de huisstijlkleur van jouw Emeq omgeving aan te passen. Zodra je op de venster klikt zie je verschillende kleuren staan. Je kunt één van de optiekleuren kiezen om de Emeq omgeving gelijk te houden met jouw huisstijlkleuren.
+
+**Tijdsnotatie:** hier heb je de optie om de weergave tussen 12- of 24 uursnotatie te kiezen. 
+Selectie **Hh:mm** staat voor 24 uurnotatie. 
+Selectie **Hh:mm a** staat voor 12 uurnotatie.
+
+E-mail
+
+**Taal:** 
+Standaardrecord per pagina
+Datum notatie
+Meldingspositie
+Tijdzone
+Meertalig inschakelen
+Onderhoudsmodus
+
 
 ## E-mail
 
