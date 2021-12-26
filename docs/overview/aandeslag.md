@@ -7,7 +7,7 @@ Nogmaals bedankt voor uw keuze naar Emeq Software!
 
 Voordat u aan de slag kunt gaan dient Emeq Software geconfigureerd te worden. Dit gaan we realiseren door middel van het tandwiel icoontje die u links beneden- of rechtsboven in de pagina kunt vinden.
 
-![knipsel-1](https://user-images.githubusercontent.com/95087870/147404268-60d9d317-7210-4c43-9e7e-130faf73709e.png)
+![knipsel-1](https://user-images.githubusercontent.com/95087870/147405120-52371e34-865b-404d-bb0e-f4a390f93510.png)
 
 Emeq Software kent 3 belangrijke configuraties;
 
