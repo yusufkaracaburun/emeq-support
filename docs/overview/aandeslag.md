@@ -15,7 +15,7 @@ Emeq Software kent 3 belangrijke configuraties;
 -	Module configuratie; en
 -	Email templates
 
-![knipsel-2](/docs/_media/img/knipsel-2.PNG)
+![knipsel-2](https://user-images.githubusercontent.com/95087870/147405037-7c006b96-a3f1-469c-acea-c9b71d7b2269.png)
 
 Zodra al deze configuraties volledig zijn uitgevoerd kunt u optimaal gebruik maken van ons Emeq Software.
 
