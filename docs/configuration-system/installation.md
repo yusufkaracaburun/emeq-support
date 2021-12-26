@@ -12,9 +12,14 @@ In dit pagina vind je alle bedrijfsinformatie van de domeinhouder. Vul deze pagi
 
 ## Logo
 
-Heb je een logo van je bedrijf? Dan moet je 2 typen logo's uploaden op deze pagina. Logo 1 is de beeldmerk van de complete logo die enkel in de zijbalk wordt weergegeven. Logo 2 is de complete logo (beeld en tekst) die in de facturatiesysteem wordt getoond. Heb je een horizontaal (lange) logo? Dan kun je in percentages de breedte van je logo instellen. Zie  Na het opslaan zie je bovenaan de pagina direct het resultaat van de geüploade logo samen met de gewijzigde breedte van de logo. 
+Heb je een logo van je bedrijf? Dan moet je 2 typen logo's uploaden op deze pagina.
 
 ![knipsel-4](https://user-images.githubusercontent.com/95087870/147405993-f3185346-8185-4426-85a3-3247f862356b.png)
+- Logo 1 is de beeldmerk van de complete logo die enkel in de zijbalk wordt weergegeven. 
+- Logo 2 is de complete logo (beeld en tekst) die in de facturatiesysteem wordt getoond. 
+- Heb je een horizontaal (lange) logo? Dan kun je in percentages de breedte van je logo instellen. 
+
+Na het opslaan zie je bovenaan de pagina direct het resultaat van de geüploade logo samen met de gewijzigde breedte van de logo. 
 
 ## Systeem
 
