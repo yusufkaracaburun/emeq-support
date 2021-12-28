@@ -31,6 +31,7 @@ Selectie **Hh:mm a** staat voor 12 uurnotatie.
 
 ## E-mail
 De afzender is samen met het onderwerp de eerste informatie die een ontvanger binnenkrijgt. De afzendernaam is voor het openen van de email al zichtbaar. In dit pagina kun je naam en het emailadres instellen die in het hele systeem gebruikt zal worden om alle in- en uitgaande e-mailberichten te versturen.
+
 **Naam afzender:** typ hier de (bedrijfs)naam van de afzender. Deze naam wordt weergegeven aan de tegenpartij. Door hier de (bedrijfs)naam bekent te maken weet de ontvanger waar het bericht vandaan komt.
 **E-mail afzender:** typ hier de e-mailadres in van uw bedrijf in.
 
