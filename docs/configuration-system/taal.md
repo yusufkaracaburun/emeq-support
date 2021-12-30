@@ -18,4 +18,4 @@ Het systeem ondersteund standaard de Engelse- en Nederlandse taal. Bij voorkeur 
 6. **Selecteer de nieuwe taal** vanuit de overzicht.
 7. Klik op de kleine **groene icoontje**
 
-In de linkermenu zie je alle beschikbare modules staan. Rechts op de pagina zie je alle teksten en buttons staan van de Emeq omgeving. Het is de bedoeling om alle woorden en zinnen één voor één zorgvuldig te vertalen. Anders krijg je onlogische 
+In de linkermenu zie je alle beschikbare modules staan. Rechts op de pagina zie je per module alle teksten en buttons staan van Emeq omgeving. Het is de bedoeling om alle woorden en zinnen één voor één zorgvuldig te vertalen. Anders krijg je onlogische 
