@@ -13,7 +13,7 @@
   - [Logo](configuration-system/logo)
   - [Systeem](configuration-system/systeem)
   - [E-mail](configuration-system/email)
-  - Taal 
+  - [Taal](configuration-system/taal)
   - Rol
   - Machtiging
   - Menu
