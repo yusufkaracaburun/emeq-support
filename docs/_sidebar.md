@@ -9,10 +9,10 @@
 - Systeem configuratie
 
   - [Algemeen](configuration-system/algemeen)
-  - [Basis](configuration-system/installation)
-  - Logo
-  - Systeem
-  - E-mail
+  - [Basis](configuration-system/basis)
+  - [Logo](configuration-system/logo)
+  - [Systeem](configuration-system/systeem)
+  - [E-mail]configuration-system/email)
   - Taal 
   - Rol
   - Machtiging
