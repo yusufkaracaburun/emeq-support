@@ -7,7 +7,6 @@ Het systeem ondersteund standaard de Engelse- en Nederlandse taal. Bij voorkeur 
 1. **Welke taal wilt u toevoegen:** Typ hier de naam van de nieuwe taal in.
 2. **Taal:** Typ hier de afkorting van de taal in.
 3. **Overzicht:** Hier zie je alle beschikbare talen waaruit je kunt kiezen.
-
 ### Hoe kun je een nieuwe taal toevoegen?
 
 1. Ga naar **systeemconfiguratie**;
