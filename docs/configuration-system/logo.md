@@ -1,4 +1,4 @@
-## Logo
+### Logo
 
 Heeft uw bedrijf ook een logo? Dan kunnen er 2 typen logo's worden geüpload in de Emeq omgeving.
 
