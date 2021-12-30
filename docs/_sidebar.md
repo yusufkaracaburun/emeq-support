@@ -12,7 +12,7 @@
   - [Basis](configuration-system/basis)
   - [Logo](configuration-system/logo)
   - [Systeem](configuration-system/systeem)
-  - [E-mail]configuration-system/email)
+  - [E-mail](configuration-system/email)
   - Taal 
   - Rol
   - Machtiging
