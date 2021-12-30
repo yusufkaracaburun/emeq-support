@@ -3,11 +3,11 @@ In dit pagina zijn alle systeeminstellingen van Emeq te vinden. Ook deze instell
 
 ![knipsel-7](https://user-images.githubusercontent.com/95087870/147787918-a9596074-7ddd-439d-8b24-89b128066866.PNG)
 
-**1. Themakleur:** dit is een optie om de huisstijlkleur van de Emeq omgeving aan te passen. Zodra er op de venster geklikt wordt tref je verschillende kleuren aan. Het is mogelijk om één van de optiekleuren te kiezen om Emeq omgeving overeenkomend te maken met de bedrijfskleuren.
+**1. Themakleur:** dit is een optie om de huisstijlkleur van de Emeq omgeving aan te passen. Zodra er op het venster geklikt wordt tref je verschillende kleuren aan. Het is mogelijk om één van de optiekleuren te kiezen om Emeq omgeving overeenkomend te maken met de bedrijfskleuren.
 
-**2. Tijd formaat:** hier heb je de optie om de weergave tussen 12- of 24 uursnotatie te kiezen. 
-- Selectie **Hh:mm** staat voor 24 uurnotatie. 
-- Selectie **Hh:mm a** staat voor 12 uurnotatie.
+**2. Tijd formaat:** hier heb je de optie om de weergave tussen 12- of 24 uur notatie te kiezen. 
+- Selectie **Hh:mm** staat voor 24 uur notatie. 
+- Selectie **Hh:mm a** staat voor 12 uur notatie.
 
 **3. Taal:** Emeq omgeving ondersteunt standaard de Nederlandse en Engelse taal. Hier selecteer je in welke taal je Emeq omgeving wilt gebruiken. In dit systeem is het ook mogelijk om een andere taal toe te voegen. We zullen in hoofdstuk "taal" hier meer uitleg over geven.
 
