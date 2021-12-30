@@ -8,6 +8,7 @@
 
 - Systeem configuratie
 
+  - [Algemeen](configuration-system/algemeen)
   - [Basis](configuration-system/installation)
   - Logo
   - Systeem
