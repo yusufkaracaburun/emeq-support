@@ -1,4 +1,4 @@
-## E-mail
+### E-mail
 
 De afzender is samen met het onderwerp de eerste informatie die een ontvanger binnenkrijgt. De afzendernaam is voor het openen van de email al zichtbaar. In dit pagina kun je naam en het emailadres instellen die in het hele systeem gebruikt zal worden om alle in- en uitgaande e-mailberichten te versturen.
 
