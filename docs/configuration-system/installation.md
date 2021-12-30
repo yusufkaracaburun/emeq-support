@@ -52,15 +52,6 @@ De afzender is samen met het onderwerp de eerste informatie die een ontvanger bi
 
 ![knipsel-5](https://user-images.githubusercontent.com/95087870/147597622-c9c8cbe6-cb24-4d14-a363-273144ce2ee3.PNG)
 
-**Taal:** 
-Standaardrecord per pagina
-Datum notatie
-Meldingspositie
-Tijdzone
-Meertalig inschakelen
-Onderhoudsmodus
-
-
 ## E-mail
 
 ## Taal
