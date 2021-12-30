@@ -1,5 +1,4 @@
 > Ready to start? Configureer dan hieronder al je bedrijfsinstellingen. 
->
 ## Algemeen
 Links van de pagina zijn er 9 submenutitels. Dit zijn alle pagina's over de systeemconfiguratie van Emeq. Neem alle configuratiepagina's goed door zodat de domein compleet kan worden ingericht. Zo wordt er voorkomen dat sommige informaties ontbreken of niet juist worden weergegeven.
 
