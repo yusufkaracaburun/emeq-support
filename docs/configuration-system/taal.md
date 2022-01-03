@@ -7,8 +7,8 @@ Het systeem ondersteund standaard de Engelse- en Nederlandse taal. Bij voorkeur 
 1. **Welke taal wilt u toevoegen:** Typ hier de naam van de nieuwe taal in.
 2. **Taal:** Typ hier de afkorting van de taal in.
 3. **Overzicht:** Hier zie je alle beschikbare talen waaruit je kunt kiezen.
-### Hoe kun je een nieuwe taal toevoegen?
 
+### Hoe kun je een nieuwe taal toevoegen?
 1. Ga naar **systeemconfiguratie**;
 2. Selecteer vanuit de zijmenu de pagina **Taal**;
 3. **Typ de naam** van de nieuwe taal in;
@@ -17,7 +17,9 @@ Het systeem ondersteund standaard de Engelse- en Nederlandse taal. Bij voorkeur 
 6. **Selecteer de nieuwe taal** vanuit de overzicht.
 7. Klik op de kleine **groene icoontje**
 
-In de linkermenu zie je alle beschikbare modules staan. Rechts op de pagina zie je per module alle teksten en buttons staan van Emeq omgeving. Het is de bedoeling om alle woorden en zinnen één voor één zorgvuldig te vertalen. Nadat de vertaling klaar is dien je via subpagina **"systeem"** de nieuwe taal te selecteren.
+### Hoe moeten de teksten worden vertaald?
+Nadat je op de gewenste taal hebt geklikt via het groene icoontje zie je in de linkermenu alle beschikbare modules staan. Rechts op de pagina zie je alle voorkomende teksten van Emeq omgeving staan. Typ in de teksten de juiste vertaling van de originele teksten. Vertaal de teksten zo nauwkeurig en zorgvuldig mogelijk om verwarring te voorkomen. 
+Nadat de vertaling klaar is dien je via subpagina **"systeem"** de nieuwe taal te selecteren.
 
 ![knipsel-10](https://user-images.githubusercontent.com/95087870/147909145-a0b480cf-5c6c-47cd-a54c-99be46438728.PNG)
 
