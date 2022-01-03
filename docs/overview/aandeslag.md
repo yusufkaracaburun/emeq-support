@@ -11,9 +11,9 @@ Voordat u aan de slag kunt gaan dient Emeq Software geconfigureerd te worden. Di
 
 Emeq Software kent 3 belangrijke configuraties;
 
--	Systeemconfiguratie;
--	Module configuratie; en
--	Email templates
+-	**Systeemconfiguratie;**
+-	**Module configuratie;** en
+-	**Email templates**
 
 ![knipsel-2](https://user-images.githubusercontent.com/95087870/147405037-7c006b96-a3f1-469c-acea-c9b71d7b2269.png)
 
