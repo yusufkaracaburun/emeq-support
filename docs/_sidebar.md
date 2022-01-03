@@ -16,8 +16,8 @@
   - [Taal](configuration-system/taal)
   - [Rol](configuration-system/rol)
   - [Machtiging](configuration-system/machtiging)
-  - [Menu](configuration-system/menu]
-  - [Authenticatie](configuration-system/authenticatie]
+  - [Menu](configuration-system/menu)
+  - [Authenticatie](configuration-system/authenticatie)
 
 - Module configuratie
 
