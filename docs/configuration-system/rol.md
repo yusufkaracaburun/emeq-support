@@ -6,3 +6,11 @@ Emeq omgeving wordt ingericht met standaard 4 verschillende rollen, namelijk; ad
 
 1. **Naam:** Typ hier de naam van de nieuwe rol in.
 2. **Rollenlijst:** Hier vind je alle rollen die het systeem kent.
+
+### Hoe kun je een nieuwe rol toevoegen en machtiging wijzigen?
+1. Ga naar **systeemconfiguratie**;
+2. Klik vanuit de linker submenu op **rol**.
+3. Voer in het tekstveld de **naam van de nieuwe rol**
+4. Klik rechtsboven op **machtiging toewijzen**
+5. **Vind de machtiging** die je wil toewijzen
+6. Druk op het **aan- en uitknop** om de machtiging te wijzigen.
