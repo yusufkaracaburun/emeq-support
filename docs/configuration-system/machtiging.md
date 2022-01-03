@@ -14,3 +14,10 @@ Deze basisoperaties zijn per module ingesteld. In de eerste pagina van de machti
 
 1. **Machtiging:** Hier zie je nogmaals een lijst van de machtigingen. Je kunt hier in één overzicht zien welke machtigingen aan welke rollen zijn toegewezen. 
 2. **Rollen:** Dit zijn de vier standaard rollen die het systeem aanmaakt.
+
+### Hoe kun je een machtiging toe- of afwijzen?
+1. Ga naar **systeemconfiguratie**;
+2. Klik vanuit de linker submenu op **machtiging**.
+3. Klik rechtsboven op het blauwe knopje **machtiging toewijzen**
+4. **Vind de machtiging** die je wil toewijzen
+5. Druk op het **aan- en uitknopje** om de machtiging te wijzigen.
