@@ -14,10 +14,10 @@
   - [Systeem](configuration-system/systeem)
   - [E-mail](configuration-system/email)
   - [Taal](configuration-system/taal)
-  - Rol
-  - Machtiging
-  - Menu
-  - Authenticatie
+  - [Rol](configuration-system/rol)
+  - [Machtiging](configuration-system/machtiging)
+  - [Menu](configuration-system/menu]
+  - [Authenticatie](configuration-system/authenticatie]
 
 - Module configuratie
 
