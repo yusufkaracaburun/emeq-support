@@ -13,10 +13,14 @@ Authenticatie is het proces waarbij Emeq omgeving nagaat of een gebruiker daadwe
 
 4. **Activeer algemene voorwaarden:** Tijdens de registratie kun je de gebruikers vragen om de algemene voorwaarden te accepteren. Met dit functie is het mogelijk om dit functie in- en uit te schakelen.
 5. **Twee factor beveiliging:** Bij het inloggen voer je standaard de e-mailadres en het wachtwoord in. Als je dit functie inschakeld vraagt Emeq omgeving bij iedere loginpoging een twee factor authenticatie. Dan dien je bij iedere login ook de token die per mail wordt verstuurd in de loginpagina in te voeren.
-6. **Herstel wachtwoord token:** 
-7. Wachtwoordsterkte
-8. Accountgoedkeuring inschakelen
+6. **Herstel wachtwoord token:** In de loginpagina kun je de gebruikers de optie geven om hun wachtwoord te herstellen. Bij voorkeur kan dit ook uitgeschakeld worden. Zie hier beneden.
+
+![knipsel-16](https://user-images.githubusercontent.com/95087870/148034002-d076fbbc-7ae2-4fe5-ac81-d5bf351335e5.PNG)
+
+7. **Wachtwoordsterkte**: Dit is een meting van hoe moeilijk het wachtwoord is opgesteld. Dit functie verplicht gebruikers om hoofdletters, cijfers en speciale tekens te gebruiken in hun registratie, zodat de account niet hack gevoelig wordt.
+8. **Accountgoedkeuring inschakelen:** Als de functie **activeer registratie** is ingeschakeld kunnen de gebruikers ook nieuwe account aanmaken. Emeq kan de gemaakte accounts standaard accepteren, maar bij voorkeur kun je ook de mogelijkheid aanzetten om iedere registratie handmatig goed- of af te keuren. 
 9. Activeer herstelwachtwoord
+
 10. Vergrendelscherm
 11. Login throttle
 12. Activeer social media login
