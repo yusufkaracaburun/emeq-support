@@ -19,8 +19,7 @@ Authenticatie is het proces waarbij Emeq omgeving nagaat of een gebruiker daadwe
 
 7. **Wachtwoordsterkte**: Dit is een meting van hoe moeilijk het wachtwoord is opgesteld. Dit functie verplicht gebruikers om hoofdletters, cijfers en speciale tekens te gebruiken in hun registratie, zodat de account niet hack gevoelig wordt.
 8. **Accountgoedkeuring inschakelen:** Als de functie **activeer registratie** is ingeschakeld kunnen de gebruikers ook nieuwe account aanmaken. Emeq kan de gemaakte accounts standaard accepteren, maar bij voorkeur kun je ook de mogelijkheid aanzetten om iedere registratie handmatig goed- of af te keuren. 
-9. Activeer herstelwachtwoord
-
-10. Vergrendelscherm
-11. Login throttle
-12. Activeer social media login
+9. **Activeer herstelwachtwoord:** Bepaal hier of je gebruikers zelf hun wachtwoord moeten kunnen herstellen. 
+10. **Vergrendelscherm:** Hier kun je instellen na hoeveel minuten Emeq vergrendeld moet worden. Zodra je de button inschakeld krijg je een optie te zien om de time-out periode te kiezen.
+11. **Login throttle:** Als je dit button inschakeld krijg je twee opties te zien. Namelijk **throttle poging** en **throttle time-out**. Bij throttle poging stel je de aantal inlogpogingen in waarna de account geblokkeerd wordt. En throttle time-out gebruik je om te bepalen voor hoelang de account geblokkeerd moet blijven.  
+12. **Activeer login met social media:** Emeq omgeving geeft de gebruikers de mogelijkheid om via 3 verschillende social media kanalen in te loggen. Door dit button in te schakelen kun je de domein, e-mail en wachtwoord hier invoeren zodat de login wordt opgeslagen in het systeem.
