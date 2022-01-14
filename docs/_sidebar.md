@@ -21,6 +21,23 @@
 
 - Module configuratie
 
+  - [Functiegroep]
+  - [BTW]
+  - [Uitgaven]
+  - [Inkomsten]
+  - [Categorie]
+  - [Self billing factuur]
+  - [Factuur]
+  - [Offerte]
+  - [Betaling]
+  - [Document]
+  - [Taak]
+  - [Uren]
+  - [Productielijst]
+  - [Mandagenregister]
+  - [Apparatuur]
+  - [Contract]
+  - [Notificatie]
   - [Aanmelden](subscription/join_emeq.md)
   - [Wat heeft u nodig?](subscription/requirements.md)
 
