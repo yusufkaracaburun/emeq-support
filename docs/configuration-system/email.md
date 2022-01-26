@@ -6,7 +6,7 @@ De afzender is samen met het onderwerp de eerste informatie die een ontvanger bi
 
 1. **Naam afzender:** typ hier de (bedrijfs)naam van de afzender. Deze naam wordt weergegeven aan de tegenpartij. Door hier de (bedrijfs)naam bekent te maken weet de ontvanger waar het bericht vandaan komt.
 2. **E-mail afzender:** Typ hier de e-mailadres in van uw bedrijf.
-3. **Host:** Vul hier de URL in van de uitgaande mailserver. 
+3. **Host:** Vul hier de smtp URL in van de uitgaande mailserver. 
 4. **Poort:** Vul hier de poortnummer in. Dit is het nummer dat wordt gebruikt door de server voor uitgaande e-mails.
 5. **Gebruikersnaam:** Vul hier het e-mailadres in waaruit de e-mails verstuurd moeten worden.
 6. **Wachtwoord:** Vul hier de wachtwoord in van het e-mailadres.
