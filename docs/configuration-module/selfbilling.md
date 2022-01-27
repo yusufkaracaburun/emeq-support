@@ -1,8 +1,8 @@
-Self billing factuur is een mogelijkheid om jezelf te factureren namens uw aannemers. In deze pagina kun je de self-billing weergave configureren.
+Self-billing factuur geeft jou de mogelijkheid om jezelf te factureren namens uw aannemers. In deze pagina kun je de self-billing weergave configureren.
 
 ![knipsel-22](https://user-images.githubusercontent.com/95087870/149656985-c1fb1153-6a9f-45b1-85e2-88ade03e36fc.PNG)
 
-1. **deeltelijke betaling:** door dit button in te schakelen geef je de klanten de mogelijkheid om de self-billing factuur gedeeltelijk te kunnen betalen.
+1. **Gedeeltelijke betaling:** door dit button in te schakelen geef je de klanten de mogelijkheid om de self-billing factuur gedeeltelijk te kunnen betalen.
 2. **Standaard BTW op regelitem:** bij activitatie van dit button kun je een kolom weergeven per artikel die de percentage van elk product toont.
 3. **Standaard beschrijving van regelactiviteit:** hiermee kun je de beschrijving van de regels automatisch laten weergeven.
 4. **Standaard subtotaal nihil BTW:** Dit is de hoogte van de BTW onderaan de self billing factuur.
