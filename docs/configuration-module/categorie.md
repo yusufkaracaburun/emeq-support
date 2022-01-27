@@ -1,4 +1,4 @@
-Als uw bedrijf verschillende **producten** of **diensten** verleend/verkoopt dan kun je dat in deze pagina configureren. Links in de hoofdmenu kun je **artikelen** toevoegen aan je account. Tijdens het aanmaken van een artikel moet je selecteren tot welke categorie de artikel behoord. Zodra je op de selectieveld klikt zie je alle artikelcategorieën staan die je eerder in module configuratie hebt toegevoegd.
+Als uw bedrijf verschillende **producten** of **diensten** verleend/verkoopt dan kun je dat in deze pagina configureren. Links in de hoofdmenu kun je **artikelen** toevoegen aan je account. Tijdens het aanmaken van een artikel moet je selecteren tot welke categorie de artikel behoord. Zodra je op de selectieveld klikt zie je alle artikelcategorieën staan die reeds in module configuratie waren toegevoegd.
 
 ![knipsel-21](https://user-images.githubusercontent.com/95087870/149656970-b81eba38-4168-40e6-bf78-7c4817f2a7e6.PNG)
 
