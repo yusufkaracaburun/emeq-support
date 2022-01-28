@@ -1,6 +1,6 @@
-In Emeq omgeving bieden wij de mogelijkheid aan onze gebruikers om de betalingen bij te houden. Dan hebben we het zowel over de inkomsten als uitgaven. Het is zelfs mogelijk om verschillende categorieën aan te maken, zodat je per dienst of activiteit overzicht kan hebben over de inkomsten en uitgaven.
+In de Emeq omgeving bieden wij de mogelijkheid aan onze gebruikers om de betalingen bij te houden. Dan hebben we het zowel over de inkomsten als uitgaven. Het is zelfs mogelijk om verschillende categorieën aan te maken, zodat je per dienst of activiteit overzicht kan hebben over de gemaakte kosten/winst.
 
-Standaard hebben wij twee categorieën aangemaakt, namelijk **inkomsten** en **uitgaven**. Later in het proces zijn de betalingen hieronder te boeken. Als je meerdere categorieën wenst kun je dat in dit pagina toevoegen. 
+Standaard hebben wij twee categorieën aangemaakt, namelijk **inkomsten** en **uitgaven**. Later in het proces zijn de betalingen hieronder te boeken. Als je meerdere categorieën wenst kun je dat in dit pagina toevoegen.
 
 ![knipsel-25](https://user-images.githubusercontent.com/95087870/151553379-e9caf32b-732a-4ecd-980c-1a811e55b8ce.png)
 
