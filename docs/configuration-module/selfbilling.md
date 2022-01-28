@@ -1,4 +1,4 @@
-Self-billing factuur geeft jou de mogelijkheid om jezelf te factureren namens uw aannemers. In deze pagina kun je de self-billing weergave configureren.
+Onjuiste facturen blijken in de praktijk een veelvoorkomend probleem: aannemers ontvangen een factuur, controleren deze en merken dat er iets niet klopt. Door te self-billen kunnen aannemers beter garanderen dat de facturen die zij moeten betalen correct zijn. Zo komt er naar verwachting minder tijd en moeite aan de administratie te pas. Self-billing factuur geeft jou de mogelijkheid om jezelf te factureren namens uw onderaannemers. In deze pagina kun je de self-billing weergave configureren.
 
 ![knipsel-22](https://user-images.githubusercontent.com/95087870/149656985-c1fb1153-6a9f-45b1-85e2-88ade03e36fc.PNG)
 
