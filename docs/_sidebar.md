@@ -29,7 +29,6 @@
   - [Self billing factuur](configuration-module/selfbilling.md)
   - [Factuur](configuration-module/factuur.md)
   - [Offerte](configuration-module/offerte.md)
-  - [Betaling](configuration-module/betaling.md)
   - [Document](configuration-module/document.md)
   - [Taak](configuration-module/taak.md)
   - [Uren](configuration-module/uren.md)
