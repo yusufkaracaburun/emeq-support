@@ -1,6 +1,6 @@
 Emeq omgeving maakt het mogelijk om bij te houden wat de inkomsten en uitgaven zijn binnen uw organisatie. In dit pagina kun je verschillende mappen openen voor de inkomsten. Vervolgens kun je verschillende inkomsten boeken op deze mappen. Hierdoor heb je uiteindelijk een gespecificeerde overzicht van inkomsten via verschillende diensten/producten.
 
-Standaart wordt "overige inkomsten" als uitgavenmap aangemaakt door het systeem. Bij voorkeur kun je alle inkomsten hieronder boeken of andere gewenste map aanmaken.
+Standaart wordt **overige inkomsten** als uitgavenmap aangemaakt door het systeem. Bij voorkeur kun je alle inkomsten hieronder boeken of andere gewenste map aanmaken.
 
 ![knipsel-20](https://user-images.githubusercontent.com/95087870/149656917-020ed198-77c4-40a8-a803-306d1c9ef767.PNG)
 
