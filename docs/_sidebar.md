@@ -38,7 +38,7 @@
   - [Contract](configuration-module/contract.md)
   - [Notificatie](configuration-module/notificatie.md)
 
-- Emailtemplate(email-template/beschrijving.md)
+- [Emailtemplate](docs/email-template/beschrijving.md) 
 
 - Email logboek
 
