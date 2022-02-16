@@ -5,7 +5,6 @@
   - [Contact](overview/contact.md)
   - [Aan de slag](overview/aandeslag.md)
   
-
 - Systeem configuratie
 
   - [Algemeen](configuration-system/algemeen)
@@ -40,14 +39,15 @@
 
 - [Emailtemplate](email-template/beschrijving.md) 
 
-- Email logboek
+- [Email logboek](email/beschrijving.md)
+
+- [Activiteiten logboek](logbook/beschrijving.md)
+
+- Bedrijf
 
   - [Aanmelden](subscription/join_emeq.md)
   - [Wat heeft u nodig?](subscription/requirements.md) 
 
-- Activiteiten logboek
-
-- Bedrijf
 - Gebruiker
 - Artikel
 - Project
