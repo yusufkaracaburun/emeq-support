@@ -38,12 +38,13 @@
   - [Contract](configuration-module/contract.md)
   - [Notificatie](configuration-module/notificatie.md)
 
-- Emailtemplate
+- Emailtemplate(email-template/beschrijving.md)
+
+- Email logboek
 
   - [Aanmelden](subscription/join_emeq.md)
   - [Wat heeft u nodig?](subscription/requirements.md) 
 
-- Email logboek
 - Activiteiten logboek
 
 - Bedrijf
