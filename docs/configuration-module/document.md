@@ -1,3 +1,5 @@
+### Document
+
 Als je in de infra wereld werkt zijn documenten niet te vermijden. In de Emeq omgeving kun je in verschillende pagina's documenten uploaden, zoals in de pagina gebruiker, bedrijf of project. Na het uploaden van de document kun je ook de documenttype selecteren. Heeft de document een geldigheid? Zelfs dat kun je instellen en automatisch bijhouden. Zie hieronder voor de weergave van de gebruikerspagina:
 
 ![knipsel-28](https://user-images.githubusercontent.com/95087870/151678819-75a68a30-dc89-444d-a41d-df3a8752492a.png)
