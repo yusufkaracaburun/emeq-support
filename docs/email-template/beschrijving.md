@@ -1,3 +1,5 @@
+### E-mailtemplate
+
 Emeq verstuurt voor sommige handelingen een emailbericht. Al deze e-mailberichten moeten ook een inhoud tekst hebben. In deze pagina kun je alle inhoud van de e-mails naar uw eigen voorkeur- en wensen instellen. Heb je toch een andere emailtemplate in gedachten? Dan kun je dat ook toevoegen met de blauwe button rechts boven in de pagina.
 
 ![emailtemplate](https://user-images.githubusercontent.com/95087870/154323959-44b483d7-9e96-44c1-acb1-90ba3322487e.PNG)
