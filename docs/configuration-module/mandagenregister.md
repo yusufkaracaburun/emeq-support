@@ -1,3 +1,5 @@
+### Mandagenregister
+
 Als je een onderaannemer voor je hebt werken dan moet je in de infra ook mandagenregisters kunnen verantwoorden. Onderaannemers moeten in dit geval per week hun urenoverzicht inleveren bij hun opdrachtgevers. Omdat Emeq met een urensysteem werkt hoef je niet meer met Excel de mandagenregisters handmatig op te stellen. Aangezien de gebruikers gekoppeld zijn aan projecten kunnen alle  namen, sofinummers, geboortedata, gewerkte uren en hun functies daar vandaan gehaald worden. Vervolgens kunnen al deze gegevens zonder complexe handelingen omgezet worden naar een mandagenregister-formaat.
 
 Sommige opdrachtgevers willen in het mandagenregister ook extra condities opnemen. Dit wordt in de praktijk gedaan in de vorm van een memo. In Emeq kun je in de module configuratie alle benodigde condities automatiseren. Zie hier beneden: 
