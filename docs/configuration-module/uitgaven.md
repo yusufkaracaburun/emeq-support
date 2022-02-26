@@ -1,3 +1,5 @@
+### Uitgaven
+
 Emeq omgeving maakt het ook mogelijk om bij te houden wat de inkomsten en uitgaven zijn binnen uw organisatie. In dit pagina kun je verschillende mappen openen voor de uitgavens. Vervolgens kun je verschillende uitgavens boeken op deze mappen. Hierdoor heb je uiteindelijk een gespecificeerde overzicht van uitgavens.
 
 Standaart wordt **overige kosten** als uitgaven aangemaakt door het systeem. Bij voorkeur kun je alle kosten hierop boeken of andere gewenste uitgavenmap aanmaken.
