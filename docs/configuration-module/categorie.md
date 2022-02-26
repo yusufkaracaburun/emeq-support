@@ -1,3 +1,5 @@
+### Categorie
+
 Als uw bedrijf verschillende **producten** of **diensten** verleend/verkoopt dan kun je dat in deze pagina configureren. Standaard hebben wij de 5 meest voorkomende artikelen toegevoegd in het systeem. 
 
 ![knipsel-21](https://user-images.githubusercontent.com/95087870/151551666-161065e8-934e-4b59-845f-ba51f526e4cd.PNG)
