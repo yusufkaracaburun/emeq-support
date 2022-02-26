@@ -37,11 +37,11 @@
   - [Contract](configuration-module/contract.md)
   - [Notificatie](configuration-module/notificatie.md)
 
-- [Emailtemplate](email-template/beschrijving.md) 
+- **[Emailtemplate](email-template/beschrijving.md)** 
 
-- [Email logboek](email/beschrijving.md)
+- **[Email logboek](email/beschrijving.md)**
 
-- [Activiteiten logboek](logbook/beschrijving.md)
+- **[Activiteiten logboek](logbook/beschrijving.md)**
 
 - Bedrijf
 
