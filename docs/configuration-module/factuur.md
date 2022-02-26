@@ -1,3 +1,5 @@
+### Factuur
+
 Emeq opgeving maakt het ook mogelijk om losse facturen te maken. Hieronder vind je de configurate van de facturatie.
 
 ![knipsel-23](https://user-images.githubusercontent.com/95087870/149657003-a4e6ee42-87b4-4c05-b24c-beb631247998.PNG)
