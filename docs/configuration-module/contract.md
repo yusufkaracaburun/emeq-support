@@ -1,3 +1,5 @@
+### Contract
+
 In de module configuratie kunnen nu ook contracttypen toegevoegd worden. Zoals in de praktijk voorkomt worden sommige projecten als solo en andere weer als combi aangenomen. Hieronder heb je een overzicht waar je deze informatie kunt opslaan.
 
 ![knipsel-32](https://user-images.githubusercontent.com/95087870/149657172-f6ccbef8-f6e6-4614-8b0e-4abc6529e7fa.PNG)
