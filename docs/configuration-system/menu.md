@@ -1,4 +1,4 @@
-#### Menu
+### Menu
 
 In de pagina machtigingen gaf het systeem de mogelijkheid om de basisoperaties toevoegen, bekijken, wijzigen en verwijderen te beheren. Maar Emeq omgeving maakt het ook mogelijk om de gehele menutitel van een domein aan- en uit te zetten. Als je bijvoorbeeld menutitels hebt die niet functioneel zijn voor uw bedrijf, dan kun je met dit optie de menutitels aan- en uitschakelen. Hierdoor heb je een minder druk weergave. Tevens houdt je de systeem ook simpel en gemakkelijk voor de gebruikers.
 
