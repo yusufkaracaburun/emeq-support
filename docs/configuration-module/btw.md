@@ -1,3 +1,5 @@
+### BTW
+
 De btw kent verschillende tarieven. Het algemene tarief is 21%. Voor sommige goederen en diensten geldt het verlaagde tarief van 9%. Doet u zaken met het buitenland, dan kan het tarief van 0% van toepassing zijn. 
 
 In sommige gevallen wordt er ook gewerkt op btw verlegd wijze. In deze pagina kunnen deze btw tarieven ingesteld worden. Emeq omgeving vult de standaard BTW percentages zelf aan. Als deze percentages in de toekomst veranderen, dan kunnen ze vanuit deze pagina gewijzigd worden. 
