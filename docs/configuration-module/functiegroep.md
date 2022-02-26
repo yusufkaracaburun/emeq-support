@@ -1,3 +1,5 @@
+### Functiegroep
+
 Bij grote bedrijven heb je met verschillende medewerkers te maken met ieder zijn eigen specialiteit. Gezonde en gestructureerde bedrijven hebben een duidelijke taakverdeling gemaakt die gebaseerd is op iemands functie. In dit pagina hebben we de mogelijkheid gegeven om alle functies op te nemen die in uw bedrijf van toepassing zijn. Tevens hebben wij alvast een standaard takenlijst gemaakt van de meest voorkomende functies binnen de infra branche. Mocht jouw functies hier niet tussen staan dan kun je hieronder lezen hoe je dat voor elkaar kunt krijgen:
 
 ![knipsel-17](https://user-images.githubusercontent.com/95087870/149656846-2644a7d5-7707-4b8f-9253-f139f6c89f09.PNG)
