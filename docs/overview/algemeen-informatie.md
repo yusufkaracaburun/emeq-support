@@ -1,4 +1,4 @@
-# Algemeen informatie
+### Algemeen informatie
 
 > Gebruik Google Chrome als webbrowser voor een optimale werking!
 > 
